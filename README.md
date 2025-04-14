@@ -2,12 +2,6 @@
 
 I'm **Kate**. I'm a **Talent Sourcer** and **HR Generalist** at **Arctic7**. I’m here to meet and connect with talented people from all around the world =)
 
-## ❄️About Arctic7
-
-**Arctic7** is a company specializing in game development, virtual production, and digital services. Recently, we expanded our scope and launched **A7 Digital**, with the goal of delivering high-quality infrastructure and operations support for various industries. 
-
-We leverage the skills we have honed from our background in game development and film & TV production to provide outsourced IT solutions.
-
 ## 🚀 Let's connect & chat! 
 
 As part of **A7 Digital**, we are currently working on the development of high-performance routing software, and we are eager to connect with talented **Network Engineers** and **QA Engineer** to discuss future opportunities.
@@ -22,7 +16,7 @@ As part of **A7 Digital**, we are currently working on the development of high-p
   - Wireshark, tcpdump, FD.io VPP, DPDK
   - Knowledge of network protocols (TCP/IP, IPv6, routing, NAT, VXLAN, DNS)
 
-### 🛠️ **QA Engineer**
+### 🛠️ **QA Automtion Engineer**
 - Git, CI/CD tools (e.g., Jenkins), and test frameworks.
 - Networking knowledge (e.g., TCP/IP, VPN).
   #### Nice to have:
