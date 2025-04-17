@@ -26,3 +26,6 @@ As part of **A7 Digital**, we are currently working on the development of high-p
 ## 📬How to Get in Touch:
 - **LinkedIn**: [Ekaterina Shvederskaya](https://www.linkedin.com/in/ekashved/)
 - **Email**: [ekaterina.shvederskaya@arctic7.com](mailto:ekaterina.shvederskaya@arctic7.com)
+
+  
+## ![stats](https://komarev.com/ghpvc/?username=katerixas)
