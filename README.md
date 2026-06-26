@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Kate**  from Talent Intelligence & People Operations at Arctic7. **Arctic7**. I’m here to meet and connect with talented people from all around the world =)
+I'm **Kate**  from Talent Intelligence & People Operations at **Arctic7**. I’m here to meet and connect with talented people from all around the world =)
 
 ## 🚀 Let's connect & chat! 
 
